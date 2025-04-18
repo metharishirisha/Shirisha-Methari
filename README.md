@@ -1,7 +1,7 @@
 # TANDEMLOOP Screening Test Submission  
 **Candidate Name:** Shirisha Methari  
 **Role Applied:** Full Stack Developer  
-**Language Used:** Python 3  
+**Language Used:** Python 
 
 ---
 
